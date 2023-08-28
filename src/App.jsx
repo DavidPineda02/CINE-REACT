@@ -20,7 +20,7 @@ const buscadorCine = async (titulo) =>{
     }, [])
     return (
         <div className = "app">
-            <h1>Cine Colombia</h1>
+            <h1>Cine Artemis</h1>
             <div className = "busqueda">
                 <input 
                     type = "text" 
